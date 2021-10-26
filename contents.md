@@ -28,17 +28,6 @@ Before I begin, I want to say thank you for inviting me to give this talk today.
 
 ---
 
-## This Talk
-
-<ul>
-<li class="fragment">Why study (data) storytelling?</li>
-<li class="fragment">What have we learned?</li>
-<li class="fragment">How can we apply this?</li>
-<li class="fragment">Theory and Practice</li>
-</ul>
-
----
-
 ## Credits: Local
 
 <div class="multiCol">
@@ -88,31 +77,6 @@ Chris Havlin <!-- .element: class="headshot-caption" -->
 
 </div>
 </div>
-
----
-
-## Credits: Local
-
-![Kate McDowell](images/KateMcDowell.jpg) <!-- .element: class="headshot" -->
-
-Prof. Kate McDowell <!-- .element: class="headshot-caption" -->
-
----
-
-## Credits: `yt`
-
-`yt` is a community of users and developers.  The steering committee is made up of:
-
- * Britton Smith
- * Madicken Munk
- * John ZuHone
- * Stephanie Tonnesen
- * Nathan Goldbaum
- * Matthew Turk
- * Cameron Hummels
-
-Two additional folks who have bene extremely active lately I'd like to
-recognize are Clément Robert and Corentin Cadiou.
 
 ---
 
@@ -221,160 +185,6 @@ $$\begin{aligned}{\partial \rho  \over \partial t}+\nabla \cdot (\rho \mathbf{v}
 {\partial e \over \partial t}+\mathbf {v} \cdot \nabla e+{\frac {p}{\rho }}\nabla \cdot \mathbf {v} &=0\end{aligned}$$
 </div>
 </div>
-
----
-
-## But, what do people do?
-
-<div class="multiCol">
-<div class="col">
-
-![Samantha Walkow](https://raw.githubusercontent.com/data-exp-lab/data-exp-lab.github.io/4ff6549d71c67b62b958fa6d8ff66c3dd2a13356/assets/img/people/swalkow.jpg) <!-- .element: class="headshot" -->
-
-</div>
-
-<div class="col">
-
-Samantha Walkow has been conducting an investigation into "data storytelling" and how individual researchers describe their process.
-
-Our understanding of the process of visualization, cognition, and semantically-meaningful models will outlast any single tool or platform.<!-- .element: class="fragment" -->
-
-</div>
-</div>
-
----
-
-<div class="multiCol">
-<div class="col">
-
-![](images/s1_0.png)<!-- .element: class="storypanel fragment" -->
-
-</div>
-<div class="col">
-
-![](images/s1_1.jpg)<!-- .element: class="storypanel fragment" -->
-
-</div>
-</div>
-<div class="multiCol">
-<div class="col">
-
-![](images/s1_2.gif)<!-- .element: class="storypanel fragment" -->
-
-</div>
-<div class="col">
-
-![](images/s1_3.png)<!-- .element: class="storypanel fragment" -->
-
-</div>
-</div>
-
----
-
-<div class="multiCol">
-<div class="col">
-
-![](images/s2_0.png)<!-- .element: class="storypanel fragment" -->
-
-</div>
-<div class="col">
-
-![](images/s2_1.png)<!-- .element: class="storypanel fragment" -->
-
-</div>
-</div>
-<div class="multiCol">
-<div class="col">
-
-![](images/s2_2.png)<!-- .element: class="storypanel fragment" -->
-
-</div>
-<div class="col">
-
-&nbsp;
-
-</div>
-</div>
-
----
-
-<div class="multiCol">
-<div class="col">
-
-![](images/s3_0.png)<!-- .element: class="storypanel fragment" -->
-
-</div>
-<div class="col">
-
-![](images/s3_1.png)<!-- .element: class="storypanel fragment" -->
-
-</div>
-</div>
-<div class="multiCol">
-<div class="col">
-
-![](images/s3_2.png)<!-- .element: class="storypanel fragment" -->
-
-</div>
-<div class="col">
-
-&nbsp;
-
-</div>
-</div>
-
----
-
-## The Storytelling Triangle
-
-<div class="multiCol">
-<div class="col">
-
-<p class="fragment" data-fragment-index="0">Borrowing from Kate McDowell's framing, we can think of three components in our triangle.</p>
-
-<ul>
-<li class="fragment" data-fragment-index="1">The Storyteller</li>
-<li class="fragment" data-fragment-index="2">The Tale</li>
-<li class="fragment" data-fragment-index="3">The Audience</li>
-</ul>
-
-</div>
-<div class="col">
-<div class="fig-container" data-file="figures/storytelling.html" data-preload data-style="width: 700px;">
-</div>
-
----
-
-## The Storytelling Triangle
-
-Let's think about three potential categories of visualization: <!-- .element: class="fragment" data-fragment-index="1" -->
-
-<div class="multiCol">
-    <div class="col">
-        <ul>
-            <li class="fragment" data-fragment-index="2">Visualizations we make for ourselves</li>
-            <li class="fragment" data-fragment-index="3">Visualizations we make for our peers</li>
-            <li class="fragment" data-fragment-index="4">Visualizations we make for everyone else</li>
-        </ul>
-    </div>
-    <div class="col">
-        <ul>
-            <li class="fragment" data-fragment-index="2" style="list-style-type:none;">(The Teller)</li>
-            <li class="fragment" data-fragment-index="3" style="list-style-type:none;">(The Tale)</li>
-            <li class="fragment" data-fragment-index="4" style="list-style-type:none;">(The Told)</li>
-        </ul>
-    </div>
-</div>
-
-<div class="fragment" data-fragment-index="5">
-
-Each of these brings with it different needs for **narrative**, for
-**interactivity**, for **control** and for the **visual language** we use to convey
-information.
-
-</div>
-
-<div class="fragment" data-fragment-index="5">
 
 ---
 
@@ -555,6 +365,22 @@ from the very big to the very small.
 
 ---
 
+## Credits: `yt`
+
+`yt` is a community of users and developers.  The steering committee is made up of:
+
+ * Britton Smith
+ * Madicken Munk
+ * John ZuHone
+ * Stephanie Tonnesen
+ * Matthew Turk
+ * Cameron Hummels
+
+Two additional folks who have bene extremely active lately I'd like to
+recognize are Clément Robert and Corentin Cadiou.
+
+---
+
 ## What does yt do?
 
 <p class="">
@@ -599,44 +425,60 @@ It also makes some visualizations and has lots of astro-specific modules.
 
 ---
 
-## Who uses `yt`?
+## Current Directions: Visualization
 
-<div class="appearing_row">
-  <div class="fragment" data-fragment-index="1"><div class="left_align">
-  Mostly...
-  </div></div>
-  <div class="fragment" data-fragment-index="1"><div class="right_align">
-  ...astro simulators
-  </div></div>
-</div>
-<br/>
-<br/>
-<div class="appearing_row">
-  <div class="fragment" data-fragment-index="2"><div class="left_align">
-  A bit...
-  </div></div>
-  <div class="fragment" data-fragment-index="2"><div class="right_align">
-  ...material science, geophysics, nuclear engineering folks
-  </div></div>
-</div>
-<br/>
-<br/>
-<div class="appearing_row">
-  <div class="fragment" data-fragment-index="3"><div class="left_align">
-  Eensy-weensy amount...
-  </div></div>
-  <div class="fragment" data-fragment-index="3"><div class="right_align">
-  ...other domains
-  </div></div>
+<div class="multiCol">
+    <div class="col">
+    <p>In collaboration with SPIN studen Aidan Sochowski and iSchool Research Scientist Chris Havlin, we've been building out a typed, data-flow based renderer for adaptive mesh refinement datasets and smoothed particle hydrodynamics simulations.</p>
+    <p>In addition, by porting key routines to Rust, we have begun moving some visualization into client-side notebooks for extremely low-latency interactivity.</p>
+    </div>
+    <div class="col">
+        ![yt_idv example](https://camo.githubusercontent.com/1e298db5cef7cc8b636964ba8a787fa5f6c3b82a213f71521ccbf1ebe4242e8d/68747470733a2f2f692e696d6775722e636f6d2f513458504e5a772e676966)
+    </div>
 </div>
 
 ---
 
-# Next: Expanding
+## Current Directions: Grammar
 
-<p class="fragment">Our tools right now are focused on the technicalities, not the story.</p>
-<p class="fragment">This seeps into how we think about differential equations, simulation platforms, and how they connect with theory.</p>
-<p class="fragment">By understanding where the boundaries between semantics and pragmatic application are rough, ill-defined or too difficult to cross, we can address them.</p>
+We have to span the entire process from data **acquisition**, to **analysis**,
+to **application** to develop understandable information for researchers.
+
+We are implementing this grammar of analysis within `yt`, starting with
+high-level operations like visualizations.  We build this on the concepts
+developed by precursors such as `vega-lite` (Satyanarayan et al), volume
+visualization (Shih et al) and the Grammar of Graphics (Wilkinson), to
+encompass the full pipeline of registration, transformation, selection and
+reduction as applied to volumetric data.
+
+<div class="multiCol">
+<div class="col">
+
+```json
+{
+    "fields": ["density", "temperature"],
+    "axes": ["z"],
+    "center": {
+        "max": "density"
+    },
+    "widths": [ [50.0, "kpc"] ],
+    "min": {
+        "density": {
+            "minimum": "density"
+        }
+    },
+    "max": {
+        "density": [1e-22, "g/cm**3"]
+    }
+}
+```
+
+</div>
+<div class="col">
+
+![An example image](images/galaxy0030_Slice_z_density.png) <!-- .element: style="max-height: 300px;" -->
+
+</div>
 
 ---
 
