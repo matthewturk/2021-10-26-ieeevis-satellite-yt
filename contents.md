@@ -1,6 +1,6 @@
 <!-- .slide: class="titleslide" -->
 
-# Data Storytelling and the Grammar of Analysis
+# yt: for volumetric analysis and visualization
 
 ## Matthew Turk
 
